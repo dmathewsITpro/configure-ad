@@ -38,7 +38,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WdEdfyI.png" height="80%" width="70%"
 </p>
 
 2. 👤 Create and Use Domain Administrative Accounts
@@ -54,7 +54,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/U1HfktH.png" height="80%" width="70%"
 </p>
 
 3. 🔗 Join Client-1 to the Domain and Enable Remote Desktop Access
@@ -70,7 +70,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5n50S00.png" height="80%" width="70%"
 </p>
 
 4. 🧑‍💻 Bulk User Creation and Login Testing
