@@ -27,7 +27,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>📌 Four High-Level Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/goWmUli.png" height="80%" width="70%"
 </p>
 
 1. 🏗️ Install and Configure Active Directory on DC-1
